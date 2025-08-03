@@ -224,7 +224,7 @@ button {
 .banner_bg_main {
     width: 100%;
     float: left;
-    background-image: url("9584482.jpg");
+    background-image: url(../images/9584482.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -976,4 +976,5 @@ input.mail_bt::placeholder {
 
 
 /* copyright section end */
+
 
